@@ -1,0 +1,11 @@
+.dashboardlinks_wrapper{
+
+}
+.inline{
+    display:inline;
+}
+
+ul>li{
+    margin:10px 10px;
+    display:inline;
+}
